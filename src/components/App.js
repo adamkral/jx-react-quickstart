@@ -12,6 +12,8 @@ class App extends Component {
         </header>
         <p className="App-intro">
           To get started, edit <code>src/components/App.js</code> and save to reload.
+          
+          or you could add something...
         </p>
       </div>
     );
