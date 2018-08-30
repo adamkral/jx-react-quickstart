@@ -15,7 +15,8 @@ class App extends Component {
           
           or you could add something...
           and some more
-          
+          <br/>
+          fixing first issue :)
         </p>
       </div>
     );
